@@ -1,5 +1,14 @@
-### Austin S. Hovland -- @AustinHovland
-TODO: Catchy README
+<p>
+<h1 align="center"><b>Hey! I'm Austin, nice to meet you.</b>
+    </h1>
+    </p>
+
+<p align="center">
+<a href="https://www.linkedin.com/in/austin-s-hovland/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+<a href="https://twitter.com/AustinHovland"><img src="https://img.shields.io/twitter/follow/AustinHovland?style=for-the-badge&logo=twitter&logoColor=Blue" alt="Twitter" /></a>&nbsp;
+<a href="https://www.reddit.com/r/bioinformatics/"><img src="https://img.shields.io/reddit/subreddit-subscribers/bioinformatics?style=for-the-badge&logo=reddit&logoColor=red" alt="Reddit" /> </a>&nbsp;
+</p>
+
 
 <!--
 **Austin-s-h/Austin-s-h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
