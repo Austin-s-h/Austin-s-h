@@ -8,8 +8,9 @@
 <a href="https://twitter.com/AustinHovland"><img src="https://img.shields.io/twitter/follow/AustinHovland?style=for-the-badge&logo=twitter&logoColor=Blue" alt="Twitter" /></a>&nbsp;
 <a href="https://www.reddit.com/r/bioinformatics/"><img src="https://img.shields.io/reddit/subreddit-subscribers/bioinformatics?style=for-the-badge&logo=reddit&logoColor=red" alt="Reddit" /> </a>&nbsp;
     <br />
-    Placeholder of a nice little paragraph talking about me and what I do! :)
-</p>
+    PhD, Molecular Biology and Genetics (Genetics, Genomics, and Development) from Cornell Unviersity. <br>
+    Previously a graduate student from the <a href="https://mbg.cornell.edu/people/marcos-simoes-costa">Simoes-Costa lab</a> at Cornell. <br>
+    Extensive knowledge of RNA-Seq, ATAC-Seq, ChIP-Seq, CUT&RUN, CUT&TAG, Nanopore Longread Sequencing, Single Cell Analysis (Seurat/Signac/ArchR/Scanpy), Linux system admisitration (Ubuntu, CentOS, Debian), Cloud Computing (AWS, Azure, Google Cloud), High Performance Computing (SLURM, Nextflow, Snakemake), GPU Computing (Nvidia Parabricks, CUDA)
 
 ---
 
