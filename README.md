@@ -8,16 +8,14 @@
 <a href="https://twitter.com/AustinHovland"><img src="https://img.shields.io/twitter/follow/AustinHovland?style=for-the-badge&logo=twitter&logoColor=Blue" alt="Twitter" /></a>&nbsp;
 <a href="mailto:austinshovland@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;
     <br />
-    PhD, Molecular Biology and Genetics (Genetics, Genomics, and Development) from Cornell Unviersity. <br>
+    PhD, Molecular Biology and Genetics (Genetics, Genomics, and Development) from <a href="https://gendev.cornell.edu/">Cornell Unviersity</a>. <br>
     Previously a graduate student studying multipotency and differentiation of neural crest cells using cutting-edge genomics from the <a href="https://mbg.cornell.edu/people/marcos-simoes-costa">Simoes-Costa lab</a> at Cornell. 
 <br>
-<br>
----
 <h2 align="center">
     <p>Genomic Analysis Toolkit:</p>
-    <ul>
-        <li>RNA-Seq</li>
-    </ul>
+    </h2>
+    <p>RNA-Seq, scRNA-Seq, ATAC-Seq, scATAC-Seq, Visium Spatial Transcriptomics, ChIP-Seq, CUT&RUN, CUT&TAG, Nanopore Longread Sequencing, </p>
+    <h2 align="center">
     <p>I code with:</p>
     <a href="#"><img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" alt="R" />&nbsp;</a>
     <a href="#"><img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />&nbsp;</a>
@@ -25,6 +23,7 @@
     <a href="#"><img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Shell Script" />&nbsp;</a>
     <a href="#"><img src="https://img.shields.io/badge/snakemake-039475.svg?style=for-the-badge&logo=snakemake&logoColor=white" alt="Snakemake" />&nbsp;</a>
     <a href="#"><img src="https://img.shields.io/badge/nextflow-26af64.svg?style=for-the-badge&logo=nextflow&logoColor=white" alt="Nextflow" />&nbsp;</a>
+    <a href="#"><img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />&nbsp;</a>
     <a href="#"><img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown" />&nbsp;</a>
     <br />
     <p>I use: </p>
@@ -46,25 +45,6 @@
     <a href="#"><img src="https://img.shields.io/badge/NVIDIA-GTX3070-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="GTX 3070" />&nbsp;</a>
     <a href="#"><img src="https://img.shields.io/badge/Windows-11-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows 11" />&nbsp;</a>
     <a href="#"><img src="https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white" alt="Linux Mint" />&nbsp;</a>
-    
----
-Extensive knowledge of RNA-Seq, ATAC-Seq, ChIP-Seq, CUT&RUN, CUT&TAG, Nanopore Longread Sequencing, Single Cell Analysis (Seurat/Signac/ArchR/Scanpy), Linux system admisitration (Ubuntu, CentOS, Debian), Cloud Computing (AWS, Azure, Google Cloud), High Performance Computing (SLURM, Nextflow, Snakemake), GPU Computing (Nvidia Parabricks, CUDA)
-
 </h2>
 <h6>DNA Gif - https://tinyurl.com/dmj38yfc</h6>
 <h6>Awesome Badges - https://github.com/Envoy-VC/awesome-badges</h6>
-
-<!--
-**Austin-s-h/Austin-s-h** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
