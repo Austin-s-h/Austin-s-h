@@ -14,7 +14,7 @@
 <h2 align="center">
     <p>Genomic Analysis Toolkit:</p>
     </h2>
-    <p>RNA-Seq, scRNA-Seq, ATAC-Seq, scATAC-Seq, Visium Spatial Transcriptomics, ChIP-Seq, CUT&RUN, CUT&TAG, Nanopore Longread Sequencing, </p>
+    <p>RNA-Seq, scRNA-Seq, Spatial Transcriptomics, ATAC-Seq, scATAC-Seq, ChIP-Seq, CUT&RUN, CUT&TAG, Hi-C/Hi-ChIP, Nanopore Long-read Sequencing, Tomo-Seq, MPRA, AlphaFold, R-Shiny, Plotly, and more!</p>
     <h2 align="center">
     <p>I code with:</p>
     <a href="#"><img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" alt="R" />&nbsp;</a>
@@ -37,7 +37,9 @@
     <a href="#"><img src="https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity" />&nbsp;</a>
     <a href="#"><img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />&nbsp;</a>
     <a href="#"><img src="https://img.shields.io/badge/Rust-B94700.svg?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />&nbsp;</a>
+    <a href="#"><img src="https://img.shields.io/badge/go-2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go" />&nbsp;</a>
     <a href="#"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />&nbsp;</a>
+    <a href="#"><img src="https://img.shields.io/badge/PyTorch-ee4c2c?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />&nbsp;</a>
     <a href="#"><img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />&nbsp;</a>
     <br />
     <p>My Desktop:</p>
