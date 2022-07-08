@@ -7,6 +7,7 @@
 <a href="https://www.linkedin.com/in/austin-s-hovland/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 <a href="https://twitter.com/AustinHovland"><img src="https://img.shields.io/twitter/follow/AustinHovland?style=for-the-badge&logo=twitter&logoColor=Blue" alt="Twitter" /></a>&nbsp;
 <a href="mailto:austinshovland@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>&nbsp;
+<a href="https://orcid.org/0000-0002-7590-734X"><img src="https://img.shields.io/badge/-ORCID-ffffff?style=for-the-badge&logo=ORCID&logoColor=white alt="ORCID" /></a>&nbsp;
     <br />
     PhD, Molecular Biology and Genetics (Genetics, Genomics, and Development) from <a href="https://gendev.cornell.edu/">Cornell Unviersity</a>. <br>
     Previously a graduate student studying multipotency and differentiation of neural crest cells using cutting-edge genomics from the <a href="https://mbg.cornell.edu/people/marcos-simoes-costa">Simoes-Costa lab</a> at Cornell. 
